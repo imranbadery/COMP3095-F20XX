@@ -1,1 +1,3 @@
 The course focuses on practical applications of DevOps.
+Students learn CI/CD practices and version control.
+Graduates are prepared for careers in software development.
