@@ -1,2 +1,3 @@
 DevOps enhances collaboration in the software development life cycle.
 It reduces bottlenecks in the development process.
+Learning DevOps is crucial for modern software teams.
